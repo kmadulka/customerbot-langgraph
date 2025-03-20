@@ -1,0 +1,11 @@
+langgraph=0.3.2
+langchain=0.3.4
+langchain-openai=0.3.7
+tavily-python
+langchain-core=0.3.40
+openai=1.65.2
+pydantic
+python-dotenv
+pytest
+jupyter
+ipykernel
