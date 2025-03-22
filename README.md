@@ -4,7 +4,8 @@
 * source customerbot/bin/activate
 * pip install -r requirements.txt
 
-# git update-index --no-assume-unchanged .env
-# to undo:
-# git update-index --no-assume-unchanged .env
+
+ git update-index --no-assume-unchanged .env
+to undo:
+ git update-index --no-assume-unchanged .env
 
